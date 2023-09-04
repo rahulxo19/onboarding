@@ -5,9 +5,9 @@ The objective of this project is to develop a web application that allows users/
 
 ## Entities:
 ### The main entities involved in this project are:
-  User: A person who registers an account and uses the voucher management system.
-  Voucher: A digital coupon that has a code, value, type, expiration date, and usage limit.
-  Transaction: A record of a voucher being redeemed by a user for a product or service from a merchant.
++ User: A person who registers an account and uses the voucher management system.
++ Voucher: A digital coupon that has a code, value, type, expiration date, and usage limit.
++ Transaction: A record of a voucher being redeemed by a user for a product or service from a merchant.
 
 ## Functional Requirements:
 ### The functional requirements of this project are:
